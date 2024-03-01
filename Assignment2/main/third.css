@@ -1,0 +1,36 @@
+.start-story {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.additional-info {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.additional-info h3 {
+    margin-bottom: 10px;
+}
+
+.additional-info a {
+    text-decoration: none;
+    color: #007bff;
+}
